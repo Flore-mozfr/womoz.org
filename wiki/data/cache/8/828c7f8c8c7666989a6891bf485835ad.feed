@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://womoz.org/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://womoz.org/wiki/feed.php">
+        <title>Women &amp;amp; Mozilla playground</title>
+        <description></description>
+        <link>http://womoz.org/wiki/</link>
+        <image rdf:resource="http://womoz.org/wiki/lib/images/favicon.ico" />
+       <dc:date>2013-12-24T17:27:25+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://womoz.org/wiki/lib/images/favicon.ico">
+        <title>Women &amp;amp; Mozilla</title>
+        <link>http://womoz.org/wiki/</link>
+        <url>http://womoz.org/wiki/lib/images/favicon.ico</url>
+    </image>
+</rdf:RDF>
